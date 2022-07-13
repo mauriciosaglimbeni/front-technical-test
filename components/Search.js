@@ -1,7 +1,7 @@
 export function Search(props) {
   return (
     <>
-      {/* TODO */}
+      <h3> I am a search bar</h3>
     </>
   )
 }
